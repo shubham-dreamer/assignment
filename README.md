@@ -1,3 +1,7 @@
+# code wriiten in app.js file
+I have written code n app .js file in src folder which is taking roll no separated by comma(,)
+and dispalying the result.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
