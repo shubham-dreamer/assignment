@@ -1,4 +1,4 @@
-# code wriiten in app.js file
+# code written in app.js file
 I have written code n app .js file in src folder which is taking roll no separated by comma(,)
 and dispalying the result.
 
